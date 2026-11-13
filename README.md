@@ -126,4 +126,4 @@ BellezaTotal/
 ## Autor
 
 Luca Leonardi · [LinkedIn](https://www.linkedin.com/in/luca-leonardi-98314a213/)
-Joaquina MArraco · [LinkedIn](https://www.linkedin.com/in/joaquina-marraco-2845a8212/)
+Joaquina Marraco · [LinkedIn](https://www.linkedin.com/in/joaquina-marraco-2845a8212/)
