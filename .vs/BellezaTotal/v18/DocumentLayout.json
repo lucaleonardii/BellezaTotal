@@ -1,0 +1,476 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\chleo\\OneDrive\\Desktop\\BellezaTotal\\ejemplo respaldos bd\\modificado.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B71B3A-2C2B-4A01-B547-98E05B7E390E}|BellezaTotal_UI\\BellezaTotal_UI.csproj|C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\bellezatotal_ui\\ui_proveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2B71B3A-2C2B-4A01-B547-98E05B7E390E}|BellezaTotal_UI\\BellezaTotal_UI.csproj|solutionrelative:bellezatotal_ui\\ui_proveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B71B3A-2C2B-4A01-B547-98E05B7E390E}|BellezaTotal_UI\\BellezaTotal_UI.csproj|C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\bellezatotal_ui\\ui_proveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2B71B3A-2C2B-4A01-B547-98E05B7E390E}|BellezaTotal_UI\\BellezaTotal_UI.csproj|solutionrelative:bellezatotal_ui\\ui_proveedores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B71B3A-2C2B-4A01-B547-98E05B7E390E}|BellezaTotal_UI\\BellezaTotal_UI.csproj|C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\bellezatotal_ui\\ui_registrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2B71B3A-2C2B-4A01-B547-98E05B7E390E}|BellezaTotal_UI\\BellezaTotal_UI.csproj|solutionrelative:bellezatotal_ui\\ui_registrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E3BAD4-E4AA-4799-AF7B-7D24F9FAF92C}|BellezaTotal_BLL\\BellezaTotal_BLL.csproj|C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\bellezatotal_bll\\clases\\proveedoresbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E3BAD4-E4AA-4799-AF7B-7D24F9FAF92C}|BellezaTotal_BLL\\BellezaTotal_BLL.csproj|solutionrelative:bellezatotal_bll\\clases\\proveedoresbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B71B3A-2C2B-4A01-B547-98E05B7E390E}|BellezaTotal_UI\\BellezaTotal_UI.csproj|C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\bellezatotal_ui\\uc_cuit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2B71B3A-2C2B-4A01-B547-98E05B7E390E}|BellezaTotal_UI\\BellezaTotal_UI.csproj|solutionrelative:bellezatotal_ui\\uc_cuit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B71B3A-2C2B-4A01-B547-98E05B7E390E}|BellezaTotal_UI\\BellezaTotal_UI.csproj|C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\bellezatotal_ui\\uc_cuit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2B71B3A-2C2B-4A01-B547-98E05B7E390E}|BellezaTotal_UI\\BellezaTotal_UI.csproj|solutionrelative:bellezatotal_ui\\uc_cuit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B71B3A-2C2B-4A01-B547-98E05B7E390E}|BellezaTotal_UI\\BellezaTotal_UI.csproj|C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\bellezatotal_ui\\ui_clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2B71B3A-2C2B-4A01-B547-98E05B7E390E}|BellezaTotal_UI\\BellezaTotal_UI.csproj|solutionrelative:bellezatotal_ui\\ui_clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059796CE-567F-4C8A-85ED-38D699A84A71}|BellezaTotal_DAL\\BellezaTotal_DAL.csproj|C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\bellezatotal_dal\\clases\\proveedoresdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059796CE-567F-4C8A-85ED-38D699A84A71}|BellezaTotal_DAL\\BellezaTotal_DAL.csproj|solutionrelative:bellezatotal_dal\\clases\\proveedoresdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B71B3A-2C2B-4A01-B547-98E05B7E390E}|BellezaTotal_UI\\BellezaTotal_UI.csproj|C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\bellezatotal_ui\\ui_waitline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2B71B3A-2C2B-4A01-B547-98E05B7E390E}|BellezaTotal_UI\\BellezaTotal_UI.csproj|solutionrelative:bellezatotal_ui\\ui_waitline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B71B3A-2C2B-4A01-B547-98E05B7E390E}|BellezaTotal_UI\\BellezaTotal_UI.csproj|C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\bellezatotal_ui\\ui_waitline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2B71B3A-2C2B-4A01-B547-98E05B7E390E}|BellezaTotal_UI\\BellezaTotal_UI.csproj|solutionrelative:bellezatotal_ui\\ui_waitline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B71B3A-2C2B-4A01-B547-98E05B7E390E}|BellezaTotal_UI\\BellezaTotal_UI.csproj|C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\bellezatotal_ui\\ui_proveedores.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2B71B3A-2C2B-4A01-B547-98E05B7E390E}|BellezaTotal_UI\\BellezaTotal_UI.csproj|solutionrelative:bellezatotal_ui\\ui_proveedores.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B71B3A-2C2B-4A01-B547-98E05B7E390E}|BellezaTotal_UI\\BellezaTotal_UI.csproj|C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\bellezatotal_ui\\ui_controlinsumos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2B71B3A-2C2B-4A01-B547-98E05B7E390E}|BellezaTotal_UI\\BellezaTotal_UI.csproj|solutionrelative:bellezatotal_ui\\ui_controlinsumos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B71B3A-2C2B-4A01-B547-98E05B7E390E}|BellezaTotal_UI\\BellezaTotal_UI.csproj|C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\bellezatotal_ui\\ui_controlinsumos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2B71B3A-2C2B-4A01-B547-98E05B7E390E}|BellezaTotal_UI\\BellezaTotal_UI.csproj|solutionrelative:bellezatotal_ui\\ui_controlinsumos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B71B3A-2C2B-4A01-B547-98E05B7E390E}|BellezaTotal_UI\\BellezaTotal_UI.csproj|C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\bellezatotal_ui\\ui_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2B71B3A-2C2B-4A01-B547-98E05B7E390E}|BellezaTotal_UI\\BellezaTotal_UI.csproj|solutionrelative:bellezatotal_ui\\ui_main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E3BAD4-E4AA-4799-AF7B-7D24F9FAF92C}|BellezaTotal_BLL\\BellezaTotal_BLL.csproj|C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\bellezatotal_bll\\clases\\validadorcuit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E3BAD4-E4AA-4799-AF7B-7D24F9FAF92C}|BellezaTotal_BLL\\BellezaTotal_BLL.csproj|solutionrelative:bellezatotal_bll\\clases\\validadorcuit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74427106-D4FB-484C-A492-A3E0E29E9412}|BellezaTotal_MAPPER\\BellezaTotal_MPP.csproj|C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\bellezatotal_mapper\\clases\\proveedormpp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74427106-D4FB-484C-A492-A3E0E29E9412}|BellezaTotal_MAPPER\\BellezaTotal_MPP.csproj|solutionrelative:bellezatotal_mapper\\clases\\proveedormpp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AFE19A-E88D-431B-B2FA-43B8E98A7E0F}|BellezaTotal_BE\\BellezaTotal_BE.csproj|C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\bellezatotal_be\\auditoria\\accionesbitacora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AFE19A-E88D-431B-B2FA-43B8E98A7E0F}|BellezaTotal_BE\\BellezaTotal_BE.csproj|solutionrelative:bellezatotal_be\\auditoria\\accionesbitacora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AFE19A-E88D-431B-B2FA-43B8E98A7E0F}|BellezaTotal_BE\\BellezaTotal_BE.csproj|C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\bellezatotal_be\\personas\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AFE19A-E88D-431B-B2FA-43B8E98A7E0F}|BellezaTotal_BE\\BellezaTotal_BE.csproj|solutionrelative:bellezatotal_be\\personas\\proveedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B71B3A-2C2B-4A01-B547-98E05B7E390E}|BellezaTotal_UI\\BellezaTotal_UI.csproj|C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\bellezatotal_ui\\ui_analiticas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2B71B3A-2C2B-4A01-B547-98E05B7E390E}|BellezaTotal_UI\\BellezaTotal_UI.csproj|solutionrelative:bellezatotal_ui\\ui_analiticas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B71B3A-2C2B-4A01-B547-98E05B7E390E}|BellezaTotal_UI\\BellezaTotal_UI.csproj|C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\bellezatotal_ui\\ui_backup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2B71B3A-2C2B-4A01-B547-98E05B7E390E}|BellezaTotal_UI\\BellezaTotal_UI.csproj|solutionrelative:bellezatotal_ui\\ui_backup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B71B3A-2C2B-4A01-B547-98E05B7E390E}|BellezaTotal_UI\\BellezaTotal_UI.csproj|C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\bellezatotal_ui\\ui_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2B71B3A-2C2B-4A01-B547-98E05B7E390E}|BellezaTotal_UI\\BellezaTotal_UI.csproj|solutionrelative:bellezatotal_ui\\ui_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059796CE-567F-4C8A-85ED-38D699A84A71}|BellezaTotal_DAL\\BellezaTotal_DAL.csproj|C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\bellezatotal_dal\\clases\\clientedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059796CE-567F-4C8A-85ED-38D699A84A71}|BellezaTotal_DAL\\BellezaTotal_DAL.csproj|solutionrelative:bellezatotal_dal\\clases\\clientedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E3BAD4-E4AA-4799-AF7B-7D24F9FAF92C}|BellezaTotal_BLL\\BellezaTotal_BLL.csproj|C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\bellezatotal_bll\\clases\\xml\\clientesxmlbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E3BAD4-E4AA-4799-AF7B-7D24F9FAF92C}|BellezaTotal_BLL\\BellezaTotal_BLL.csproj|solutionrelative:bellezatotal_bll\\clases\\xml\\clientesxmlbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74427106-D4FB-484C-A492-A3E0E29E9412}|BellezaTotal_MAPPER\\BellezaTotal_MPP.csproj|C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\bellezatotal_mapper\\clases\\xmlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74427106-D4FB-484C-A492-A3E0E29E9412}|BellezaTotal_MAPPER\\BellezaTotal_MPP.csproj|solutionrelative:bellezatotal_mapper\\clases\\xmlhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B71B3A-2C2B-4A01-B547-98E05B7E390E}|BellezaTotal_UI\\BellezaTotal_UI.csproj|C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\bellezatotal_ui\\ui_gestionusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2B71B3A-2C2B-4A01-B547-98E05B7E390E}|BellezaTotal_UI\\BellezaTotal_UI.csproj|solutionrelative:bellezatotal_ui\\ui_gestionusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B71B3A-2C2B-4A01-B547-98E05B7E390E}|BellezaTotal_UI\\BellezaTotal_UI.csproj|C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\bellezatotal_ui\\ui_gestionusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2B71B3A-2C2B-4A01-B547-98E05B7E390E}|BellezaTotal_UI\\BellezaTotal_UI.csproj|solutionrelative:bellezatotal_ui\\ui_gestionusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7E3BAD4-E4AA-4799-AF7B-7D24F9FAF92C}|BellezaTotal_BLL\\BellezaTotal_BLL.csproj|C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\bellezatotal_bll\\clases\\usuariosbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7E3BAD4-E4AA-4799-AF7B-7D24F9FAF92C}|BellezaTotal_BLL\\BellezaTotal_BLL.csproj|solutionrelative:bellezatotal_bll\\clases\\usuariosbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{059796CE-567F-4C8A-85ED-38D699A84A71}|BellezaTotal_DAL\\BellezaTotal_DAL.csproj|C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\bellezatotal_dal\\clases\\usuariosdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{059796CE-567F-4C8A-85ED-38D699A84A71}|BellezaTotal_DAL\\BellezaTotal_DAL.csproj|solutionrelative:bellezatotal_dal\\clases\\usuariosdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ClienteDAL.cs",
+              "DocumentMoniker": "C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\BellezaTotal_DAL\\Clases\\ClienteDAL.cs",
+              "RelativeDocumentMoniker": "BellezaTotal_DAL\\Clases\\ClienteDAL.cs",
+              "ToolTip": "C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\BellezaTotal_DAL\\Clases\\ClienteDAL.cs",
+              "RelativeToolTip": "BellezaTotal_DAL\\Clases\\ClienteDAL.cs",
+              "ViewState": "AgIAAM4AAAAAAAAAAAAQwOEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T22:57:22.992Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UI_Clientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\BellezaTotal_UI\\UI_Clientes.cs",
+              "RelativeDocumentMoniker": "BellezaTotal_UI\\UI_Clientes.cs",
+              "ToolTip": "C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Claude\\BellezaTotal\\BellezaTotal_UI\\UI_Clientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Claude\\BellezaTotal\\BellezaTotal_UI\\UI_Clientes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T19:02:16.252Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "modificado.xml",
+              "DocumentMoniker": "C:\\Users\\chleo\\OneDrive\\Desktop\\BellezaTotal\\ejemplo respaldos bd\\modificado.xml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\BellezaTotal\\ejemplo respaldos bd\\modificado.xml",
+              "ToolTip": "C:\\Users\\chleo\\OneDrive\\Desktop\\BellezaTotal\\ejemplo respaldos bd\\modificado.xml",
+              "RelativeToolTip": "..\\..\\..\\..\\BellezaTotal\\ejemplo respaldos bd\\modificado.xml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAIUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-11-09T02:59:13.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UI_Proveedores.cs",
+              "DocumentMoniker": "C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\BellezaTotal_UI\\UI_Proveedores.cs",
+              "RelativeDocumentMoniker": "BellezaTotal_UI\\UI_Proveedores.cs",
+              "ToolTip": "C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\BellezaTotal_UI\\UI_Proveedores.cs",
+              "RelativeToolTip": "BellezaTotal_UI\\UI_Proveedores.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T04:45:02.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UI_Registrar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\BellezaTotal_UI\\UI_Registrar.cs",
+              "RelativeDocumentMoniker": "BellezaTotal_UI\\UI_Registrar.cs",
+              "ToolTip": "C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Claude\\BellezaTotal\\BellezaTotal_UI\\UI_Registrar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Claude\\BellezaTotal\\BellezaTotal_UI\\UI_Registrar.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T19:07:02.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UI_Proveedores.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\BellezaTotal_UI\\UI_Proveedores.cs",
+              "RelativeDocumentMoniker": "BellezaTotal_UI\\UI_Proveedores.cs",
+              "ToolTip": "C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Claude\\BellezaTotal\\BellezaTotal_UI\\UI_Proveedores.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Claude\\BellezaTotal\\BellezaTotal_UI\\UI_Proveedores.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T04:32:19.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProveedoresBLL.cs",
+              "DocumentMoniker": "C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\BellezaTotal_BLL\\Clases\\ProveedoresBLL.cs",
+              "RelativeDocumentMoniker": "BellezaTotal_BLL\\Clases\\ProveedoresBLL.cs",
+              "ToolTip": "C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\BellezaTotal_BLL\\Clases\\ProveedoresBLL.cs",
+              "RelativeToolTip": "BellezaTotal_BLL\\Clases\\ProveedoresBLL.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwDQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T04:29:58.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UC_Cuit.cs",
+              "DocumentMoniker": "C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\BellezaTotal_UI\\UC_Cuit.cs",
+              "RelativeDocumentMoniker": "BellezaTotal_UI\\UC_Cuit.cs",
+              "ToolTip": "C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\BellezaTotal_UI\\UC_Cuit.cs",
+              "RelativeToolTip": "BellezaTotal_UI\\UC_Cuit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T04:50:59.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UC_Cuit.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\BellezaTotal_UI\\UC_Cuit.cs",
+              "RelativeDocumentMoniker": "BellezaTotal_UI\\UC_Cuit.cs",
+              "ToolTip": "C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Claude\\BellezaTotal\\BellezaTotal_UI\\UC_Cuit.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Claude\\BellezaTotal\\BellezaTotal_UI\\UC_Cuit.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T04:53:11.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProveedoresDAL.cs",
+              "DocumentMoniker": "C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\BellezaTotal_DAL\\Clases\\ProveedoresDAL.cs",
+              "RelativeDocumentMoniker": "BellezaTotal_DAL\\Clases\\ProveedoresDAL.cs",
+              "ToolTip": "C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\BellezaTotal_DAL\\Clases\\ProveedoresDAL.cs",
+              "RelativeToolTip": "BellezaTotal_DAL\\Clases\\ProveedoresDAL.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAlwDYAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T04:28:19.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UI_WaitLine.cs",
+              "DocumentMoniker": "C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\BellezaTotal_UI\\UI_WaitLine.cs",
+              "RelativeDocumentMoniker": "BellezaTotal_UI\\UI_WaitLine.cs",
+              "ToolTip": "C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\BellezaTotal_UI\\UI_WaitLine.cs",
+              "RelativeToolTip": "BellezaTotal_UI\\UI_WaitLine.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T05:08:58.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UI_WaitLine.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\BellezaTotal_UI\\UI_WaitLine.cs",
+              "RelativeDocumentMoniker": "BellezaTotal_UI\\UI_WaitLine.cs",
+              "ToolTip": "C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Claude\\BellezaTotal\\BellezaTotal_UI\\UI_WaitLine.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Claude\\BellezaTotal\\BellezaTotal_UI\\UI_WaitLine.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T05:08:57.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UI_Proveedores.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\BellezaTotal_UI\\UI_Proveedores.Designer.cs",
+              "RelativeDocumentMoniker": "BellezaTotal_UI\\UI_Proveedores.Designer.cs",
+              "ToolTip": "C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\BellezaTotal_UI\\UI_Proveedores.Designer.cs",
+              "RelativeToolTip": "BellezaTotal_UI\\UI_Proveedores.Designer.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAAwJ4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T04:55:45.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UI_ControlInsumos.cs",
+              "DocumentMoniker": "C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\BellezaTotal_UI\\UI_ControlInsumos.cs",
+              "RelativeDocumentMoniker": "BellezaTotal_UI\\UI_ControlInsumos.cs",
+              "ToolTip": "C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\BellezaTotal_UI\\UI_ControlInsumos.cs",
+              "RelativeToolTip": "BellezaTotal_UI\\UI_ControlInsumos.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAhwIkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T04:51:37.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UI_ControlInsumos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\BellezaTotal_UI\\UI_ControlInsumos.cs",
+              "RelativeDocumentMoniker": "BellezaTotal_UI\\UI_ControlInsumos.cs",
+              "ToolTip": "C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Claude\\BellezaTotal\\BellezaTotal_UI\\UI_ControlInsumos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Claude\\BellezaTotal\\BellezaTotal_UI\\UI_ControlInsumos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T04:51:26.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UI_Main.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\BellezaTotal_UI\\UI_Main.cs",
+              "RelativeDocumentMoniker": "BellezaTotal_UI\\UI_Main.cs",
+              "ToolTip": "C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Claude\\BellezaTotal\\BellezaTotal_UI\\UI_Main.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Claude\\BellezaTotal\\BellezaTotal_UI\\UI_Main.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T22:45:04.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ValidadorCuit.cs",
+              "DocumentMoniker": "C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\BellezaTotal_BLL\\Clases\\ValidadorCuit.cs",
+              "RelativeDocumentMoniker": "BellezaTotal_BLL\\Clases\\ValidadorCuit.cs",
+              "ToolTip": "C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\BellezaTotal_BLL\\Clases\\ValidadorCuit.cs",
+              "RelativeToolTip": "BellezaTotal_BLL\\Clases\\ValidadorCuit.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T04:29:15.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProveedorMPP.cs",
+              "DocumentMoniker": "C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\BellezaTotal_MAPPER\\Clases\\ProveedorMPP.cs",
+              "RelativeDocumentMoniker": "BellezaTotal_MAPPER\\Clases\\ProveedorMPP.cs",
+              "ToolTip": "C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\BellezaTotal_MAPPER\\Clases\\ProveedorMPP.cs",
+              "RelativeToolTip": "BellezaTotal_MAPPER\\Clases\\ProveedorMPP.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T04:27:59.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Proveedor.cs",
+              "DocumentMoniker": "C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\BellezaTotal_BE\\Personas\\Proveedor.cs",
+              "RelativeDocumentMoniker": "BellezaTotal_BE\\Personas\\Proveedor.cs",
+              "ToolTip": "C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\BellezaTotal_BE\\Personas\\Proveedor.cs",
+              "RelativeToolTip": "BellezaTotal_BE\\Personas\\Proveedor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T04:27:10.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UI_Backup.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\BellezaTotal_UI\\UI_Backup.cs",
+              "RelativeDocumentMoniker": "BellezaTotal_UI\\UI_Backup.cs",
+              "ToolTip": "C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Claude\\BellezaTotal\\BellezaTotal_UI\\UI_Backup.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Claude\\BellezaTotal\\BellezaTotal_UI\\UI_Backup.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T02:22:41.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UI_Login.cs",
+              "DocumentMoniker": "C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\BellezaTotal_UI\\UI_Login.cs",
+              "RelativeDocumentMoniker": "BellezaTotal_UI\\UI_Login.cs",
+              "ToolTip": "C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\BellezaTotal_UI\\UI_Login.cs",
+              "RelativeToolTip": "BellezaTotal_UI\\UI_Login.cs",
+              "ViewState": "AgIAALYAAAAAAAAAAAAYwM4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T02:00:32.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AccionesBitacora.cs",
+              "DocumentMoniker": "C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\BellezaTotal_BE\\Auditoria\\AccionesBitacora.cs",
+              "RelativeDocumentMoniker": "BellezaTotal_BE\\Auditoria\\AccionesBitacora.cs",
+              "ToolTip": "C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\BellezaTotal_BE\\Auditoria\\AccionesBitacora.cs",
+              "RelativeToolTip": "BellezaTotal_BE\\Auditoria\\AccionesBitacora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T22:56:21.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UI_Analiticas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\BellezaTotal_UI\\UI_Analiticas.cs",
+              "RelativeDocumentMoniker": "BellezaTotal_UI\\UI_Analiticas.cs",
+              "ToolTip": "C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Claude\\BellezaTotal\\BellezaTotal_UI\\UI_Analiticas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Claude\\BellezaTotal\\BellezaTotal_UI\\UI_Analiticas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-08T02:22:42.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ClientesXmlBLL.cs",
+              "DocumentMoniker": "C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\BellezaTotal_BLL\\Clases\\xml\\ClientesXmlBLL.cs",
+              "RelativeDocumentMoniker": "BellezaTotal_BLL\\Clases\\xml\\ClientesXmlBLL.cs",
+              "ToolTip": "C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\BellezaTotal_BLL\\Clases\\xml\\ClientesXmlBLL.cs",
+              "RelativeToolTip": "BellezaTotal_BLL\\Clases\\xml\\ClientesXmlBLL.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwFUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T22:53:16.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "XmlHelper.cs",
+              "DocumentMoniker": "C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\BellezaTotal_MAPPER\\Clases\\XmlHelper.cs",
+              "RelativeDocumentMoniker": "BellezaTotal_MAPPER\\Clases\\XmlHelper.cs",
+              "ToolTip": "C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\BellezaTotal_MAPPER\\Clases\\XmlHelper.cs",
+              "RelativeToolTip": "BellezaTotal_MAPPER\\Clases\\XmlHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T22:49:45.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UI_GestionUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\BellezaTotal_UI\\UI_GestionUsuarios.cs",
+              "RelativeDocumentMoniker": "BellezaTotal_UI\\UI_GestionUsuarios.cs",
+              "ToolTip": "C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\BellezaTotal_UI\\UI_GestionUsuarios.cs",
+              "RelativeToolTip": "BellezaTotal_UI\\UI_GestionUsuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T19:06:01.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UI_GestionUsuarios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\BellezaTotal_UI\\UI_GestionUsuarios.cs",
+              "RelativeDocumentMoniker": "BellezaTotal_UI\\UI_GestionUsuarios.cs",
+              "ToolTip": "C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Claude\\BellezaTotal\\BellezaTotal_UI\\UI_GestionUsuarios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\..\\Claude\\BellezaTotal\\BellezaTotal_UI\\UI_GestionUsuarios.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T19:03:06.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UsuariosBLL.cs",
+              "DocumentMoniker": "C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\BellezaTotal_BLL\\Clases\\UsuariosBLL.cs",
+              "RelativeDocumentMoniker": "BellezaTotal_BLL\\Clases\\UsuariosBLL.cs",
+              "ToolTip": "C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\BellezaTotal_BLL\\Clases\\UsuariosBLL.cs",
+              "RelativeToolTip": "BellezaTotal_BLL\\Clases\\UsuariosBLL.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAhwBsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T19:15:40.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UsuariosDAL.cs",
+              "DocumentMoniker": "C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\BellezaTotal_DAL\\Clases\\UsuariosDAL.cs",
+              "RelativeDocumentMoniker": "BellezaTotal_DAL\\Clases\\UsuariosDAL.cs",
+              "ToolTip": "C:\\Users\\chleo\\OneDrive\\Desktop\\ZZZ\\Segunda entrega\\Borrador\\BellezaTotal\\BellezaTotal_DAL\\Clases\\UsuariosDAL.cs",
+              "RelativeToolTip": "BellezaTotal_DAL\\Clases\\UsuariosDAL.cs",
+              "ViewState": "AgIAANAAAAAAAAAAAAAkwOoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T19:16:46.893Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

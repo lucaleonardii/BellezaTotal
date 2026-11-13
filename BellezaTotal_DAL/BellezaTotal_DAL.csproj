@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{059796CE-567F-4C8A-85ED-38D699A84A71}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BellezaTotal_DAL</RootNamespace>
+    <AssemblyName>BellezaTotal_DAL</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Clases\BDDAL.cs" />
+    <Compile Include="Clases\BitacoraDAL.cs" />
+    <Compile Include="Clases\ClienteDAL.cs" />
+    <Compile Include="Clases\CabinasDAL.cs" />
+    <Compile Include="Clases\ProfesionalesDAL.cs" />
+    <Compile Include="Clases\ProveedoresDAL.cs" />
+    <Compile Include="Clases\ServiciosDAL.cs" />
+    <Compile Include="Clases\TurnosDAL.cs" />
+    <Compile Include="Clases\Conexion.cs" />
+    <Compile Include="Clases\FamiliasDAL.cs" />
+    <Compile Include="Clases\InsumoDAL.cs" />
+    <Compile Include="Clases\IdiomaDAL.cs" />
+    <Compile Include="Clases\PermisosDAL.cs" />
+    <Compile Include="Clases\UsuariosDAL.cs" />
+    <Compile Include="Interfaces\IABMC.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BellezaTotal_BE\BellezaTotal_BE.csproj">
+      <Project>{d5afe19a-e88d-431b-b2fa-43b8e98a7e0f}</Project>
+      <Name>BellezaTotal_BE</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\BellezaTotal_MAPPER\BellezaTotal_MPP.csproj">
+      <Project>{74427106-d4fb-484c-a492-a3e0e29e9412}</Project>
+      <Name>BellezaTotal_MPP</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
